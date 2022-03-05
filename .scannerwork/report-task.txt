@@ -1,0 +1,6 @@
+projectKey=node-jest-unittest
+serverUrl=http://localhost:9000
+serverVersion=9.2.4.50792
+dashboardUrl=http://localhost:9000/dashboard?id=node-jest-unittest
+ceTaskId=AX9b1tvZIHp8QGVlr51c
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX9b1tvZIHp8QGVlr51c
