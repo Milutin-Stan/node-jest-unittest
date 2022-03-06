@@ -10,7 +10,7 @@ class UserService {
     console.log(`lastName = ${lName}`);
 
     // save to db (out of scope for this tutorial)
-    // .
+    // ..
     // pretend that inserted user has id 5
     return 5;
   }
