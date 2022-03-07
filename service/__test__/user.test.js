@@ -8,7 +8,7 @@ describe('user service', () => {
       'Smith'
     );
 
-    expect(fName).toEqual('John');
+    expect(fName).toEqual('Johny');
     expect(mNames).toEqual('Alexander Brian');
     expect(lName).toEqual('Smith');
   });
